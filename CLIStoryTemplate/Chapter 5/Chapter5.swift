@@ -6,5 +6,5 @@
 import Foundation
 
 func chapterFive() {
-    // Your portion of the story goes here
+    print("Everyone lived happily ever after.")
 }
